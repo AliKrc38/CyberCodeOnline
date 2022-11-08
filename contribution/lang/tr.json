@@ -6497,7 +6497,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Eylem için gereken süreyi%40 azaltın, istiflenebilir%80'e kadar",
+ 	 	 	 	"trans": "Eylem için gereken süreyi %40 azaltın, %80'e kadar birikebilir",
  	 	 	 	"eng": "Reduce time needed for action by 40%, stackable upto 80%"
  	 	 	},
  	 	 	"activate": {
@@ -6507,25 +6507,25 @@
  	 	},
  	 	"extendButton": {
  	 	 	"activatedTitle": {
- 	 	 	 	"trans": "Ödül Boost (etkinleştirildi)",
+ 	 	 	 	"trans": "Ödül Artışı (etkinleştirildi)",
  	 	 	 	"eng": "Reward Boost (Activated)"
  	 	 	},
  	 	 	"notActivatedTitle": {
- 	 	 	 	"trans": "Ödül artışı",
+ 	 	 	 	"trans": "Ödül Artışı",
  	 	 	 	"eng": "Reward Boost"
  	 	 	},
  	 	 	"activatedDescription": {
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Etkinleştirilmiş artırın, bu görev için etkinleştirmek için aşağıdaki onay kutusunu işaretlemelisiniz",
+ 	 	 	 	"trans": "Etkinleştirilmiş artırın, bu görevde kullanmak için aşağıdaki onay kutusunu işaretlemelisiniz",
  	 	 	 	"eng": "Boost activated, you must tick the checkbox below to enable it for this task"
  	 	 	},
  	 	 	"notActivatedDescription": {
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Öğeleri iki katına çıkarın ve exp! Süre ve maliyet 4 kat artacak",
+ 	 	 	 	"trans": "Öğeleri ve başarımı iki katına çıkarın! Süre ve maliyet 4 kat artacak",
  	 	 	 	"eng": "Double the items and exp! while the duration and cost will increase by 4 times"
  	 	 	},
  	 	 	"activate": {
